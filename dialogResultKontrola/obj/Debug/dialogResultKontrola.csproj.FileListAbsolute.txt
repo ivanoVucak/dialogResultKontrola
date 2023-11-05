@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.Form1.resources
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.Properties.Resources.resources
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\dialogResultKontrola\bin\Debug\dialogResultKontrola.exe.config
+C:\Users\Marko\source\repos\dialogResultKontrola\bin\Debug\dialogResultKontrola.exe
+C:\Users\Marko\source\repos\dialogResultKontrola\bin\Debug\dialogResultKontrola.pdb
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.exe
+C:\Users\Marko\source\repos\dialogResultKontrola\obj\Debug\dialogResultKontrola.pdb
